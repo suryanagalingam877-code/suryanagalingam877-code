@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👻 GHOST
 
-<!--
-**suryanagalingam877-code/suryanagalingam877-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student | Ethical Hacking | Penetration Testing
 
-Here are some ideas to get you started:
+> `Exploring systems. Understanding vulnerabilities. Building defenses.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Ghost**, a cybersecurity student focused on understanding
+how systems, networks, and web applications work — and how they
+can be secured.
+
+I build security tools, practice penetration testing in authorized
+labs, research web vulnerabilities, and document my learning journey.
+
+---
+
+## 🕶️ GHOST // OPERATIONS
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                 CYBERSECURITY LAB                   │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  [01] Web Application Security                     │
+│  [02] Network Security                              │
+│  [03] Penetration Testing                           │
+│  [04] Reconnaissance                               │
+│  [05] Web LLM Security                              │
+│  [06] Security Tool Development                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
