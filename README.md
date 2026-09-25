@@ -30,11 +30,3 @@ labs, research web vulnerabilities, and document my learning journey.
 └─────────────────────────────────────────────────────┘
 
 
-**⚔️ CURRENTLY LEARNING**
-
-Web Security       ███████████████░░░
-Network Security   █████████████░░░░░
-Pentesting         ████████████░░░░░░
-Linux / Kali       ████████████████░░
-Python Security    █████████████░░░░░
-Web LLM Security   █████████░░░░░░░░░
