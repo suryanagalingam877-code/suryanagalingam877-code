@@ -28,3 +28,13 @@ labs, research web vulnerabilities, and document my learning journey.
 │  [06] Security Tool Development                    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+
+
+**⚔️ CURRENTLY LEARNING**
+
+Web Security       ███████████████░░░
+Network Security   █████████████░░░░░
+Pentesting         ████████████░░░░░░
+Linux / Kali       ████████████████░░
+Python Security    █████████████░░░░░
+Web LLM Security   █████████░░░░░░░░░
